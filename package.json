@@ -1,0 +1,16 @@
+{
+  "name": "try-sui-ts",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "ts-node app.ts",
+    "build": "tsc",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@mysten/sui.js": "0.30.0",
+    "dotenv": "16.0.3"
+  },
+  "devDependencies": {
+    "ts-node": "10.9.1"
+  }
+}

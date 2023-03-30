@@ -1,0 +1,10 @@
+node_modules
+*.log
+
+*.log.*
+
+out
+dist
+build
+
+.env
